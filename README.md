@@ -44,8 +44,8 @@
 
    <h3>Backend (Spring Boot)</h3>
         <p>Clone o repositório:</p>
-        <pre><code>git clone https://github.com/usuario/seu-repositorio.git
-cd backend</code></pre>
+        <pre><code>git clone https://github.com/sucloudflare/primeiro-projeto-fullsatck/tree/main
+cd primeiro-projeto-fullsatck</code></pre>
 
    <p>Configure o banco de dados no arquivo <code>application.properties</code>:</p>
   <pre><code>spring.datasource.url=jdbc:mysql://localhost:3306/todo_db
